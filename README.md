@@ -1,12 +1,11 @@
 ### Hi there I'm Andrés Crucetta 👋
 
 - 🌱 I'm currently a grad student in Computer Science and Public Policy at the University of Chicago. 
-- 🔭 I’m currently working as a Data Science intern with Shelf Engine, helping reduce food waste
+- 🔭 I’m working with Pathlight as a Software Engineer
 - 💬 I'm interested in:
-  -  Machine Learning Modeling
+  -  Machine Learning 
   -  Social Impact / Effective Altruism Movement
   -  Algorithm Bias
-  -  Data Storytelling and Visualization
 
 <h3>⚡ Latest work</h3>
   - <a href = "https://github.com/acrucetta/advent_of_code">Advent of Code 🎄💻</a>
