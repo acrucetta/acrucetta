@@ -1,10 +1,9 @@
 ### Hi there I'm Andrés Crucetta 👋
 
-- 🌱 I'm currently a grad student in Computer Science and Public Policy at the University of Chicago. 
-- 🔭 I’m working with Pathlight as a Software Engineer
+- 🌱 I'm a Software Engineer with 3+ years of experience and an MS in Computer Science and Public Policy at the University of Chicago. 
 - 💬 I'm interested in:
   -  Machine Learning 
-  -  Social Impact / Effective Altruism Movement
+  -  Effective Altruism Movement
   -  Algorithm Bias
 
 <h3>⚡ Latest work</h3>
