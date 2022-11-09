@@ -11,7 +11,7 @@
    <br>
   - <a href = "https://github.com/acrucetta/missing_data_project">Exploring Missing Data Methods for ML</a>
 <h3>Tools I use </h3>
-  - Python, Golang, SQL, PySpark, Dask, AWS
+  - Python, Golang, SQL, PySpark, Dask, AWS, Azure, Docker
 <!--
 **acrucetta/acrucetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
