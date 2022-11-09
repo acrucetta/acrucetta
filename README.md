@@ -1,7 +1,8 @@
 ### Hi there I'm Andrés Crucetta 👋
 
-- 🌱 I'm a Software Engineer with 3+ years of experience and an MS in Computer Science and Public Policy at the University of Chicago. 
-- 💬 I'm interested in:
+🌱 I'm a Software Engineer with 3+ years of experience and an MS in Computer Science and Public Policy at the University of Chicago. 
+
+💬 I'm interested in:
   -  ML Engineering
   -  Back-end Development 
   -  Health Tech
