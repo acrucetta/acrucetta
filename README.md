@@ -2,9 +2,9 @@
 
 - 🌱 I'm a Software Engineer with 3+ years of experience and an MS in Computer Science and Public Policy at the University of Chicago. 
 - 💬 I'm interested in:
-  -  Machine Learning 
-  -  Effective Altruism Movement
-  -  Algorithm Bias
+  -  ML Engineering
+  -  Back-end Development 
+  -  Health Tech
 
 <h3>⚡ Latest work</h3>
   - <a href = "https://github.com/acrucetta/advent_of_code">Advent of Code 🎄💻</a>
