@@ -8,6 +8,8 @@
   -  Health Tech
 
 <h3>⚡ Latest work</h3>
+<a href = "https://github.com/acrucetta/anki-builder">Build Anki Cards with Open AI</a>
+<br>
   <a href = "https://github.com/acrucetta/advent_of_code">Advent of Code 🎄💻</a>
    <br>
   <a href = "https://github.com/acrucetta/missing_data_project">Exploring Missing Data Methods for ML</a>
