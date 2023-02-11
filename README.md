@@ -3,9 +3,9 @@
 🌱 I'm a Software Engineer with 3+ years of experience and an MS in Computer Science and Public Policy at the University of Chicago. 
 
 💬 I'm interested in:
-  -  ML Engineering
-  -  Back-end Development 
-  -  Health Tech
+  -  ML Engineering / Data engineering
+  -  Health tech
+  -  Generative AI
 
 <h3>⚡ Latest work</h3>
 <a href = "https://github.com/acrucetta/anki-builder">Build Anki Cards with Open AI</a>
