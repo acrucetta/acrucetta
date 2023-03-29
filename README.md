@@ -3,20 +3,20 @@
 🌱 I'm a Software Engineer with 3+ years of experience and an MS in Computer Science and Public Policy at the University of Chicago. 
 
 💬 I'm interested in:
-  -  ML Engineering / Data engineering
-  -  Health tech
+  -  ML Engineering / Data Engineering
+  -  Health Tech
   -  Generative AI
 
 <h3>⚡ Latest work</h3>
-<a href = "https://github.com/acrucetta/hmm">hmm - a way to capture thoughts from the CLI</a>
-<a href = "https://github.com/acrucetta/todoer">todoer - a Rust task manager from the CLI</a>
-<a href = "https://github.com/acrucetta/ankify">ankify - build Anki cards with the Open AI API</a>
-<br>
-  <a href = "https://github.com/acrucetta/advent_of_code">Advent of Code 🎄💻</a>
-   <br>
-  <a href = "https://github.com/acrucetta/missing_data_project">Exploring Missing Data Methods for ML</a>
+<ul>
+    <li><a href = "https://github.com/acrucetta/hmm">hmm - a way to capture thoughts from the CLI</a></li>
+    <li><a href = "https://github.com/acrucetta/todoer">todoer - a task manager from the CLI</a></li>
+    <li><a href = "https://github.com/acrucetta/ankify">ankify - build Anki cards with the Open AI API</a></li>
+  <li>  <a href = "https://github.com/acrucetta/advent_of_code">Advent of Code 🎄💻</a></li>
+</ul>
+
 <h3>Tools I use </h3>
-  Python, Golang, SQL, PySpark, Dask, AWS, Azure, Docker
+  Python, Golang, Rust, SQL, PySpark, Dask, AWS, Azure, Docker, Terraform
 <!--
 **acrucetta/acrucetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
