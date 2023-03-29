@@ -8,7 +8,9 @@
   -  Generative AI
 
 <h3>⚡ Latest work</h3>
-<a href = "https://github.com/acrucetta/anki-builder">Build Anki Cards with Open AI</a>
+<a href = "https://github.com/acrucetta/hmm">hmm - a way to capture thoughts from the CLI</a>
+<a href = "https://github.com/acrucetta/todoer">todoer - a Rust task manager from the CLI</a>
+<a href = "https://github.com/acrucetta/ankify">ankify - build Anki cards with the Open AI API</a>
 <br>
   <a href = "https://github.com/acrucetta/advent_of_code">Advent of Code 🎄💻</a>
    <br>
