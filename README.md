@@ -9,6 +9,7 @@
 
 <h3>⚡ Latest work</h3>
 <ul>
+  <li><a href = "https://github.com/acrucetta/looker">looker - a search engine for all my notes from the CLI</a></li>
     <li><a href = "https://github.com/acrucetta/hmm">hmm - a way to capture thoughts from the CLI</a></li>
     <li><a href = "https://github.com/acrucetta/todoer">todoer - a task manager from the CLI</a></li>
     <li><a href = "https://github.com/acrucetta/ankify">ankify - build Anki cards with the Open AI API</a></li>
