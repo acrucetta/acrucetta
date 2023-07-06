@@ -4,8 +4,8 @@
 
 💬 I'm interested in:
   -  ML Engineering / Data Engineering
-  -  Health Tech
-  -  Generative AI
+  -  Healthcare
+  -  Energy & Sustainability
 
 <h3>⚡ Latest work</h3>
 <ul>
