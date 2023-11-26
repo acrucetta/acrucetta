@@ -13,9 +13,9 @@
     <li><a href = "https://github.com/acrucetta/hmm">hmm - a way to capture thoughts from the CLI</a></li>
     <li><a href = "https://github.com/acrucetta/todoer">todoer - a task manager from the CLI</a></li>
     <li><a href = "https://github.com/acrucetta/ankify">ankify - build Anki cards with the Open AI API</a></li>
-  <li><a href = "https://github.com/acrucetta/advent-of-code-2021">Advent of Code - 2021🎄💻</a></li>
-  <li><a href = "https://github.com/acrucetta/advent-of-code-2022">Advent of Code - 2022🎄💻</a></li>
-  <li><a href = "https://github.com/acrucetta/advent-of-code-2023">Advent of Code - 2023🎄💻</a></li>
+  <li><a href = "https://github.com/acrucetta/advent-of-code-2021">Advent of Code - 2021 - Python 🎄💻</a></li>
+  <li><a href = "https://github.com/acrucetta/advent-of-code-2022">Advent of Code - 2022 - Rust 🎄💻</a></li>
+  <li><a href = "https://github.com/acrucetta/advent-of-code-2023">Advent of Code - 2023 - O'Caml 🎄💻</a></li>
 </ul>
 
 <h3>Tools I use </h3>
